@@ -1,3 +1,5 @@
+(Experimental 3 - also modifications have been done to this. Note: none of the experimental repository code should be run at this time - they're not particularly stable/may have extreme faults.)
+
 MS2-Lightweight-Server
 ======================
 
